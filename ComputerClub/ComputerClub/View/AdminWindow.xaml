@@ -1,0 +1,265 @@
+﻿<Window x:Class="ComputerClub.Wind.AdminWindow"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComputerClub.Wind"
+        mc:Ignorable="d"
+        Title="Admin" Height="985" Width="1544" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True" Icon="/ComputerClub;component/Resources/icon.png">
+    <Window.Background>
+        <ImageBrush ImageSource="/Resources/заднийфон.jpg" Stretch="UniformToFill"/>
+    </Window.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <!--Разметка колонн-->
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="67*"/>
+            <RowDefinition Height="66*"/>
+        </Grid.RowDefinitions>
+        <!--Разметка строк-->
+
+        <Grid Grid.ColumnSpan="2" Background="#FFA82D2D" MouseLeftButtonDown="DragAdminWin_MouseLeftButtonDown" >
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <TextBlock x:Name="Name" Text="{Binding Name}"  Width="1367" Height="auto" Foreground="#DDFFFFFF" FontSize="22" VerticalAlignment="Center" Margin="0,4,0,5"/>
+
+                <materialDesign:PopupBox PlacementMode="BottomAndAlignLeftEdges" StaysOpen="False" Foreground="White">
+                    <StackPanel>
+                        <Button Content="Помощь" Command="{Binding HelpBtn}" />
+                        <Button Content="О нас" Command="{Binding AboutBtn}" />
+                    </StackPanel>
+                </materialDesign:PopupBox>
+
+                <Button Height="30" Width="30" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="0" Margin="0,0,3,0" Background="#FFFFBE0C" BorderBrush="#FF2D7BA8" Foreground="White" Command="{Binding MinimizeWin}" >
+                    <materialDesign:PackIcon Kind="WindowMinimize"></materialDesign:PackIcon>
+                </Button>
+
+                <Button Height="30" Width="30" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="0" Margin="0,0,3,0" Command="{Binding ChangeAcc}" Background="#FFFFBE0C" BorderBrush="#FF2D7BA8" Foreground="White">
+                    <materialDesign:PackIcon Kind="AccountSwitch"></materialDesign:PackIcon>
+                </Button>
+
+                <Button Height="30" Width="30" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="0" Margin="0,0,3,0" Command="{Binding AdminClose}" Background="#FFFFBE0C" BorderBrush="#FF2D7BA8" Foreground="White">
+                    <materialDesign:PackIcon Kind="WindowClose"></materialDesign:PackIcon>
+                </Button>
+            </StackPanel>
+        </Grid>
+        <!--Статусбар-->
+
+        <Grid Grid.Row="1" Grid.RowSpan="2">
+            <Grid.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="#f6f6f6" Offset="0.0"/>
+                    <GradientStop Color="#fff" Offset="1"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <!--Задний фон окна(его цвет)-->
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <!--Разметка grid-->
+
+            <Grid.Effect>
+                <DropShadowEffect BlurRadius="20" RenderingBias="Quality" ShadowDepth="1"/>
+            </Grid.Effect>
+
+            <Grid Background="Black">
+                <StackPanel Orientation="Horizontal" Background="Black" VerticalAlignment="Center">
+                    <StackPanel Orientation="Horizontal" Background="Black"  materialDesign:ShadowAssist.ShadowDepth="Depth4" Margin="25,0">
+                        <TextBlock Text="iBUYPOWER" FontSize="35" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10" Foreground="#DDFF0000" FontFamily="Arial Black"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+            <StackPanel Grid.Row="1">
+                <Button Margin="20,20,0,20" MinHeight="60" Command="{Binding HomePageBtn}" Background="{x:Null}" BorderBrush="{x:Null}">
+                    <StackPanel Orientation="Horizontal" Margin="3,5,3,5">
+                        <materialDesign:PackIcon Kind="Home" Height="40" Width="40" Foreground="#FFB2B2B2" Margin="0,0,25,0"/>
+                        <TextBlock Width="200" FontSize="24" Text="Главная" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#FFB2B2B2"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2">
+                <Button Margin="20,20,0,20" MinHeight="60"  Background="{x:Null}" Command="{Binding TimetableBtn}" BorderBrush="{x:Null}" >
+                    <StackPanel Orientation="Horizontal" Margin="3,5,3,5">
+                        <materialDesign:PackIcon Kind="Timetable" Height="40" Width="40" Foreground="#FFB2B2B2" Margin="0,0,10,0"/>
+                        <TextBlock Width="200" FontSize="24" Text="Расписание" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#FFB2B2B2"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+
+            <StackPanel Grid.Row="3">
+                <Button Margin="20,20,0,20"  Background="{x:Null}" 
+                         Command="{x:Static materialDesign:DialogHost.OpenDialogCommand}" CommandTarget="{Binding ElementName=hechoProc}" Height="60" BorderBrush="{x:Null}">
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Orientation="Horizontal" Margin="3,5,3,5">
+                            <materialDesign:PackIcon Kind="Plus" Height="40" Width="40" Foreground="#FFB2B2B2" Margin="0,0,10,0"/>
+                            <TextBlock Width="200" FontSize="22" Text="Добавить тариф" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#FFB2B2B2" TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            <StackPanel Grid.Row="4">
+                <Button MinHeight="60"  Background="{x:Null}" BorderBrush="{x:Null}" Command="{x:Static materialDesign:DialogHost.OpenDialogCommand}" CommandTarget="{Binding ElementName=hechoComp}" Width="280" HorizontalAlignment="Right" Margin="0,15,0,0" FontSize="18">
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Orientation="Horizontal" Margin="3,5,3,5">
+                            <materialDesign:PackIcon Kind="Plus" Height="40" Width="40" Foreground="#FFB2B2B2" Margin="0,0,25,0"/>
+                            <TextBlock Width="200" FontSize="20" Text="Добавить компьютер" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#FFB2B2B2" TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            <StackPanel Grid.Row="5" Margin="0,0,0,315">
+                <Button Margin="20,20,0,20" MinHeight="60"  Background="{x:Null}" BorderBrush="{x:Null}" Command="{Binding ClientBtn}" >
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Orientation="Horizontal" Margin="3,5,3,5">
+                            <materialDesign:PackIcon Kind="AccountBox" Height="40" Width="40" Foreground="#FFB2B2B2" Margin="0,0,25,0"/>
+                            <TextBlock Width="200" FontSize="24" Text="Клиенты"  VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#FFB2B2B2" />
+                        </StackPanel>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            <StackPanel Grid.Row="5" Margin="0,243,0,68">
+                <Button Margin="20,20,0,20" MinHeight="60"  Background="{x:Null}" BorderBrush="{x:Null}" Command="{Binding ServiceCommand}">
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Orientation="Horizontal" Margin="3,5,3,5">
+                            <materialDesign:PackIcon Kind="Timer" Height="40" Width="40" Foreground="#FFB2B2B2" Margin="0,0,25,0"/>
+                            <TextBlock Width="200" FontSize="20" Text="Список тарифов" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#FFB2B2B2" TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Button>
+
+
+
+            </StackPanel>
+            <StackPanel Grid.Row="5" Margin="0,154,0,158">
+                <Button Margin="20,20,0,20" MinHeight="60"  Background="{x:Null}" BorderBrush="{x:Null}" Command="{Binding ComputerBtn}">
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Orientation="Horizontal" Margin="3,5,3,5">
+                            <materialDesign:PackIcon Kind="LaptopMac" Height="40" Width="40" Foreground="#FFB2B2B2" Margin="0,0,25,0"/>
+                            <TextBlock Width="200" FontSize="20" Text="Список компьютеров" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#FFB2B2B2" TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            <StackPanel Grid.Row="5" Margin="0,85,0,246">
+                <Button MinHeight="60"  Background="{x:Null}" BorderBrush="{x:Null}" Command="{Binding ClientPanelBtn}" HorizontalAlignment="Right" Width="280" Height="75">
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Orientation="Horizontal" Margin="3,5,3,5">
+                            <materialDesign:PackIcon Kind="AccountEdit" Height="40" Width="40" Foreground="#FFB2B2B2" Margin="0,0,25,0"/>
+                            <TextBlock Width="200" FontSize="19" Text="Управление клиентами" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#FFB2B2B2" TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+        </Grid>
+        <!--Меню-->
+
+        <!--Основная область-->
+        <Grid Grid.Column="1" Grid.Row="1" Grid.RowSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="368*"/>
+                <RowDefinition Height="297*"/>
+            </Grid.RowDefinitions>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.RowSpan="2">
+                <Grid>
+                    <StackPanel>
+                        <Frame x:Name="AdFrameNavigation" NavigationUIVisibility="Hidden" Margin="20,10,20,350" HorizontalContentAlignment="Stretch" VerticalAlignment="Center"/>
+
+                    </StackPanel>
+                    <StackPanel Margin="0,485,0,0">
+                        <Frame x:Name="AdFrameNavigation2" NavigationUIVisibility="Hidden" Margin="20,605,20,10" HorizontalContentAlignment="Stretch"/>
+
+                    </StackPanel>
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+
+        <!--Диалог регестрации-->
+        <materialDesign:DialogHost IsOpen="False" x:Name="hechoProc" Grid.RowSpan="3" >
+            <materialDesign:DialogHost.DialogContent>
+                <StackPanel Orientation="Vertical" Margin="15">
+                    <TextBlock Text="Регистрация тарифа" Margin="5,5,5,0" FontSize="20" HorizontalAlignment="Center" Foreground="Black"/>
+                    <TextBox x:Name="txt_namePr" Text="{Binding namePr}" materialDesign:HintAssist.Hint="Название" materialDesign:HintAssist.IsFloating="True" FontSize="20" Width="225" HorizontalAlignment="Left" Margin="0,10,0,0" MaxLength="15"></TextBox>
+                    <ComboBox x:Name="cmb_durability" 
+                              Text="{Binding durab}"
+          materialDesign:HintAssist.Hint="Длительность (20 мин)" 
+          materialDesign:HintAssist.IsFloating="True" 
+          FontSize="20" Width="225" 
+          HorizontalAlignment="Left" 
+          Margin="0,10,0,0"
+         >
+                        <ComboBoxItem Content="10 мин"/>
+                        <ComboBoxItem Content="20 мин"/>
+                        <ComboBoxItem Content="30 мин"/>
+                        <ComboBoxItem Content="40 мин"/>
+                        <ComboBoxItem Content="50 мин"/>
+                        <ComboBoxItem Content="60 мин"/>
+                        <ComboBoxItem Content="90 мин"/>
+                        <ComboBoxItem Content="120 мин"/>
+                        <ComboBoxItem Content="180 мин"/>
+                        <ComboBoxItem Content="240 мин"/>
+                        <ComboBoxItem Content="300 мин"/>
+                        <ComboBoxItem Content="360 мин"/>
+                    </ComboBox>
+                    <!--<TextBox x:Name="txt_durability" Text="{Binding durab}" materialDesign:HintAssist.Hint="Длительность (20 мин)" materialDesign:HintAssist.IsFloating="True" FontSize="20" Width="225" HorizontalAlignment="Left" Margin="0,10,0,0"></TextBox>-->
+                    <TextBox x:Name="txt_pricePr" Text="{Binding pricePr}" materialDesign:HintAssist.Hint="Стоимость" materialDesign:HintAssist.IsFloating="True" FontSize="20" Width="225" HorizontalAlignment="Left" Margin="0,10,0,0" MaxLength="15"></TextBox>
+                    <TextBox x:Name="txt_description" Text="{Binding descriptionPr}" materialDesign:HintAssist.Hint="Описание" materialDesign:HintAssist.IsFloating="True" FontSize="20" Width="225" HorizontalAlignment="Left" Margin="0,10,0,20" TextWrapping="Wrap" MaxLength="17"></TextBox>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Command="{Binding RegProcCommand}" CommandTarget="{Binding ElementName=hechoPriem}" 
+                        Style="{DynamicResource MaterialDesignRaisedLightButton}" Content="Добавить" FontSize="18" Margin="0,0,16,0" Foreground="White" />
+                        <Button Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}" CommandTarget="{Binding ElementName=hechoPriem}"
+                        Style="{DynamicResource MaterialDesignRaisedLightButton}" Content="Отмена" FontSize="18" Margin="0" Foreground="White"/>
+                    </StackPanel>
+                </StackPanel>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+        <materialDesign:DialogHost IsOpen="False" x:Name="hechoComp" Grid.RowSpan="3">
+            <materialDesign:DialogHost.DialogContent>
+                <StackPanel Orientation="Vertical" Margin="15">
+                    <TextBlock Text="Регистрация компьютера" Margin="5,5,5,0" FontSize="20" HorizontalAlignment="Center" Foreground="Black"/>
+                    <TextBox x:Name="txt_regType" Text="{Binding txt_regType}" materialDesign:HintAssist.Hint="Тип" materialDesign:HintAssist.IsFloating="True" FontSize="20" Width="225" HorizontalAlignment="Left" Margin="0,10,0,0" MaxLength="15"></TextBox>
+                    <TextBox x:Name="txt_proc" Text="{Binding txt_proc}" materialDesign:HintAssist.Hint="Процессор" materialDesign:HintAssist.IsFloating="True" FontSize="20" Width="225" HorizontalAlignment="Left" Margin="0,10,0,0" MaxLength="15"></TextBox>
+                    <TextBox x:Name="txt_videocard" Text="{Binding txt_videocard}" materialDesign:HintAssist.Hint="Видеокарта" materialDesign:HintAssist.IsFloating="True" FontSize="20" Width="225" HorizontalAlignment="Left" Margin="0,10,0,0" MaxLength="12"></TextBox>
+                    <ComboBox x:Name="txt_ram" 
+                             Text="{Binding txt_ram}"
+         materialDesign:HintAssist.Hint="Память ОЗУ" 
+         materialDesign:HintAssist.IsFloating="True" 
+         FontSize="20" Width="225" 
+         HorizontalAlignment="Left" 
+         Margin="0,10,0,0"
+        >
+                        <ComboBoxItem Content="8 ГБ"/>
+                        <ComboBoxItem Content="16 ГБ"/>
+                        <ComboBoxItem Content="32 ГБ"/>
+                    </ComboBox>
+                    <TextBox x:Name="txt_desc" Text="{Binding txt_desc}" materialDesign:HintAssist.Hint="Описание" materialDesign:HintAssist.IsFloating="True" FontSize="20" Width="225" HorizontalAlignment="Left" Margin="0,10,0,0" MaxLength="23"></TextBox>
+                    <TextBox x:Name="txt_count" Text="{Binding txt_count}" materialDesign:HintAssist.Hint="Колличество" materialDesign:HintAssist.IsFloating="True" FontSize="20" Width="225" HorizontalAlignment="Left" Margin="0,10,0,0" MaxLength="15"></TextBox>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                        <Button Command="{Binding InsertComputerCommand}" CommandTarget="{Binding ElementName=hecho2}" 
+                        Style="{DynamicResource MaterialDesignRaisedLightButton}" Content="Добавить" FontSize="18" Margin="0,0,16,0" Foreground="White" />
+                        <Button Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}" CommandTarget="{Binding ElementName=hecho2}"
+                        Style="{DynamicResource MaterialDesignRaisedLightButton}" Content="Отмена" FontSize="18" Margin="0" Foreground="White"/>
+                    </StackPanel>
+                </StackPanel>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+    </Grid>
+</Window>

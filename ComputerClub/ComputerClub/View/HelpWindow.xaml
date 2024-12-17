@@ -1,0 +1,57 @@
+﻿<Window x:Class="ComputerClub.Wind.HelpWindow"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComputerClub.Wind"
+        mc:Ignorable="d"
+        Title="Login" Height="572" Width="1076" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True" Icon="/ComputerClub;component/Resources/icon.png">
+    <Window.Background>
+        <ImageBrush ImageSource="/Resources/заднийфон.jpg"/>
+    </Window.Background>
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--Статусбар верхний-->
+        <Border Grid.Row="0" Background="Transparent" MouseLeftButtonDown="DragMove_Click"  >
+            <Grid>
+                <materialDesign:ColorZone Mode="PrimaryDark" Background="#FFFF5959">
+                    <StackPanel HorizontalAlignment="Right">
+                        <Button Height="30" Width="30" materialDesign:ShadowAssist.ShadowDepth="Depth3" Padding="0" Margin="0,0,3,0" Background="#FFF14C4C" BorderBrush="#FFF30202" Foreground="White" Click="CloseWin_Click"  >
+                            <materialDesign:PackIcon Kind="WindowClose" Foreground="White"></materialDesign:PackIcon>
+                        </Button>
+                    </StackPanel>
+                </materialDesign:ColorZone>
+            </Grid>
+        </Border>
+
+        <Border  Grid.Row="1" BorderThickness="3" BorderBrush="#FFFF5959" Height="542" VerticalAlignment="Top">
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Width="1063" Height="539" VerticalAlignment="Top">
+                <TextBlock Margin="35,10,30,10" FontSize="18" Height="60" TextWrapping="Wrap" TextAlignment="Center" FontFamily="Arial Black" Foreground="#FFD8C051"><Run Text="Програмное "/><Run Text="средство для компьютерного "/><Run Text="к"/><Run Text="л"/><Run Text="у"/><Run Text="ба "/><Run Text="&quot;iBUYPOWER&quot;"/><LineBreak/><Run Text="Основные концепции - "/><Run Text="новые изменения доступны в разделах "/><Run Text="&quot;"/><Run Text="Все компьютеры"/><Run Text="&quot; "/><Run Language="ru-ru" Text="и  "/><Run Text="&quot;"/><Run Language="ru-ru" Text="Все тарифы"/><Run Text="&quot;"/></TextBlock>
+                <TextBlock Margin="10,0,10,10" FontSize="18" VerticalAlignment="Top" TextWrapping="Wrap" TextAlignment="Center" FontFamily="Arial Black" Foreground="#FFD80404"><Run Text="Перечень "/><Run Language="ru-ru" Text="компьютеров"/><Run Text=":"/></TextBlock>
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Center">
+                    <TextBlock TextAlignment="Center"  Width="325" HorizontalAlignment="Center" Background="#FFEAC6C6" TextWrapping="Wrap" Padding="0,10,0,0"><Run Text="Стандарт"/><LineBreak/><Run/><LineBreak/><Run Text="Оборудование: базовый игровой ПК."/><LineBreak/><Run Text="Характеристики:"/><LineBreak/><Run Text="Процессор: Intel Core i3 или AMD Ryzen 3."/><LineBreak/><Run Text="Видеокарта: NVIDIA GTX 1050 или аналогичная."/><LineBreak/><Run Text="ОЗУ: 8 ГБ."/><LineBreak/><Run Text="Монитор: 60 Гц, Full HD."/></TextBlock>
+                    <TextBlock Margin="10,10,10,10" TextWrapping="Wrap" TextAlignment="Center" Background="#FFEAC6C6" Width="324" Padding="0,10,0,10"><Run Text="Pro"/><LineBreak/><Run/><LineBreak/><Run Text="Оборудование: улучшенный игровой ПК."/><LineBreak/><Run Text="Характеристики:"/><LineBreak/><Run Text="Процессор: Intel Core i5 или AMD Ryzen 5."/><LineBreak/><Run Text="Видеокарта: NVIDIA GTX 1660 Ti или аналогичная."/><LineBreak/><Run Text="ОЗУ: 16 ГБ."/><LineBreak/><Run Text="Монитор: 144 Гц, Full HD."/></TextBlock>
+                    <TextBlock Margin="10,0,10,10" TextWrapping="Wrap" TextAlignment="Center" HorizontalAlignment="Center" Background="#FFEAC6C6" Width="323" Padding="0,6,0,0"><Run Text="Elite"/><LineBreak/><Run/><LineBreak/><Run Text="Оборудование: высокопроизводительный ПК для профессионального киберспорта."/><LineBreak/><Run Text="Характеристики:"/><LineBreak/><Run Text="Процессор: Intel Core i7/i9 или AMD Ryzen 7/9."/><LineBreak/><Run Text="Видеокарта: NVIDIA RTX 3080 или выше."/><LineBreak/><Run Text="ОЗУ: 32 ГБ."/><LineBreak/><Run Text="Монитор: 240 Гц, Full HD или 2K."/></TextBlock>
+                </StackPanel>
+
+                <TextBlock Margin="10,10,10,10" FontSize="18" VerticalAlignment="Top" TextWrapping="Wrap" TextAlignment="Center" FontFamily="Arial Black" Foreground="#FFD80404"><Run Text="Перечень "/><Run Language="ru-ru" Text="тарифов"/><Run Text=":"/></TextBlock>
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,15,0,0">
+                    <TextBlock TextAlignment="Center"  Width="325" HorizontalAlignment="Center" Background="#FFC6CBEA" TextWrapping="Wrap" Padding="0,10,0,0"><Run Text="Почасовой"/><LineBreak/><Run/><LineBreak/><Run Text="Оплата: фиксированная стоимость за каждый час использования компьютера."/><LineBreak/><Run Language="ru-ru"/><LineBreak/><Run Language="ru-ru" Text="1"/><Run Text="00 рублей/час."/></TextBlock>
+                    <TextBlock Margin="10,10,10,10" TextAlignment="Center" Background="#FFC6CBEA" Width="324" Padding="0,10,0,10" Height="111" TextWrapping="Wrap"><Run Text="Киберспортивный пакет (Esports Pack)"/><LineBreak/><Run/><LineBreak/><Run Text="Оплата: фиксированная стоимость за выделенные часы на компьютерах класса Elite или Pro."/><LineBreak/><Run Text="5"/><Run Text=" час"/><Run Text="ов"/><Run Text=" за "/><Run Text="10"/><Run Text="00 рублей."/></TextBlock>
+                    <TextBlock Margin="10,0,10,10" TextWrapping="Wrap" TextAlignment="Center" HorizontalAlignment="Center" Background="#FFC6CBEA" Width="323" Padding="0,6,0,0"><Run Text="VIP Тариф"/><LineBreak/><Run/><LineBreak/><Run Text="Оплата: фиксированная стоимость за доступ к отдельной зоне или комнате с улучшенными условиями (лучшие компьютеры, удобные кресла, возможность заказать еду)."/><LineBreak/><Run Text="Условия: бронирование заранее."/><LineBreak/><Run Text="Пример: 750 рублей/3 часа."/></TextBlock>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

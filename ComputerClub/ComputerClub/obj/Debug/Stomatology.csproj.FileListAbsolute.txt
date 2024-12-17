@@ -1,0 +1,251 @@
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\bin\Debug\Stomatology.exe.config
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\bin\Debug\Stomatology.exe
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\bin\Debug\Stomatology.pdb
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\bin\Debug\MaterialDesignColors.dll
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\bin\Debug\MaterialDesignColors.pdb
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\AdminWindow.g.cs
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\LoginWindow.g.cs
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\ModerWindow.g.cs
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\RegisterWindow.g.cs
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\TimetablePage.g.cs
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\UserWindow.g.cs
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\App.g.cs
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Stomatology_MarkupCompile.cache
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Stomatology_MarkupCompile.lref
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\App.baml
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\AdminWindow.baml
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\LoginWindow.baml
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\ModerWindow.baml
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\RegisterWindow.baml
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\TimetablePage.baml
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\UserWindow.baml
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Stomatology.g.resources
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Stomatology.Properties.Resources.resources
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.GenerateResource.cache
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.CoreCompileInputs.cache
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.CopyComplete
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Stomatology.exe
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Stomatology.pdb
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\HomePage.g.cs
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\HomePage.baml
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\AdminWindow.g.cs
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\HomePage.g.cs
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\LoginWindow.g.cs
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\ModerWindow.g.cs
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\RegisterWindow.g.cs
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\RegPriemPage.g.cs
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\ShedulePage.g.cs
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\UserWindow.g.cs
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\App.g.cs
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Stomatology_MarkupCompile.cache
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Stomatology_MarkupCompile.lref
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\TimetablePage.g.cs
+C:\Users\Light\Desktop\Stomatology\Stomatology\bin\Debug\Stomatology.exe.config
+C:\Users\Light\Desktop\Stomatology\Stomatology\bin\Debug\Stomatology.exe
+C:\Users\Light\Desktop\Stomatology\Stomatology\bin\Debug\Stomatology.pdb
+C:\Users\Light\Desktop\Stomatology\Stomatology\bin\Debug\MaterialDesignColors.dll
+C:\Users\Light\Desktop\Stomatology\Stomatology\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Light\Desktop\Stomatology\Stomatology\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Light\Desktop\Stomatology\Stomatology\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Light\Desktop\Stomatology\Stomatology\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\App.baml
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\AdminWindow.baml
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\HomePage.baml
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\LoginWindow.baml
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\ModerWindow.baml
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\RegisterWindow.baml
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\RegPriemPage.baml
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\ShedulePage.baml
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\TimetablePage.baml
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Wind\UserWindow.baml
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Stomatology.g.resources
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Stomatology.Properties.Resources.resources
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.GenerateResource.cache
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.CoreCompileInputs.cache
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.CopyComplete
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Stomatology.exe
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Stomatology.pdb
+C:\Users\Light\Desktop\Stomatology\Stomatology\obj\Debug\Stomatology.csprojResolveAssemblyReference.cache
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\HelpWindow.g.cs
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\HelpWindow.baml
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\AboutWindow.g.cs
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\AboutWindow.baml
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\PersonPage.g.cs
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\ServicePage.g.cs
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\PersonPage.baml
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\ServicePage.baml
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Stomatology.csprojResolveAssemblyReference.cache
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\DoctorWindow.g.cs
+E:\2_2 kurs\C# курсач\Части курсача\Stomatology\Stomatology\obj\Debug\Wind\DoctorWindow.baml
+F:\Stomatology\Stomatology\bin\Debug\Stomatology.exe.config
+F:\Stomatology\Stomatology\bin\Debug\Stomatology.exe
+F:\Stomatology\Stomatology\bin\Debug\Stomatology.pdb
+F:\Stomatology\Stomatology\bin\Debug\MaterialDesignColors.dll
+F:\Stomatology\Stomatology\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Stomatology\Stomatology\bin\Debug\MaterialDesignColors.pdb
+F:\Stomatology\Stomatology\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Stomatology\Stomatology\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Stomatology\Stomatology\obj\Debug\Stomatology.csprojResolveAssemblyReference.cache
+F:\Stomatology\Stomatology\obj\Debug\Wind\AboutWindow.g.cs
+F:\Stomatology\Stomatology\obj\Debug\Wind\AdminWindow.g.cs
+F:\Stomatology\Stomatology\obj\Debug\Wind\DoctorWindow.g.cs
+F:\Stomatology\Stomatology\obj\Debug\Wind\HelpWindow.g.cs
+F:\Stomatology\Stomatology\obj\Debug\Wind\HomePage.g.cs
+F:\Stomatology\Stomatology\obj\Debug\Wind\LoginWindow.g.cs
+F:\Stomatology\Stomatology\obj\Debug\Wind\ModerWindow.g.cs
+F:\Stomatology\Stomatology\obj\Debug\Wind\PersonPage.g.cs
+F:\Stomatology\Stomatology\obj\Debug\Wind\RegisterWindow.g.cs
+F:\Stomatology\Stomatology\obj\Debug\Wind\ServicePage.g.cs
+F:\Stomatology\Stomatology\obj\Debug\Wind\TimetablePage.g.cs
+F:\Stomatology\Stomatology\obj\Debug\Wind\UserWindow.g.cs
+F:\Stomatology\Stomatology\obj\Debug\App.g.cs
+F:\Stomatology\Stomatology\obj\Debug\Stomatology_MarkupCompile.cache
+F:\Stomatology\Stomatology\obj\Debug\Stomatology_MarkupCompile.lref
+F:\Stomatology\Stomatology\obj\Debug\App.baml
+F:\Stomatology\Stomatology\obj\Debug\Wind\AboutWindow.baml
+F:\Stomatology\Stomatology\obj\Debug\Wind\AdminWindow.baml
+F:\Stomatology\Stomatology\obj\Debug\Wind\DoctorWindow.baml
+F:\Stomatology\Stomatology\obj\Debug\Wind\HelpWindow.baml
+F:\Stomatology\Stomatology\obj\Debug\Wind\HomePage.baml
+F:\Stomatology\Stomatology\obj\Debug\Wind\LoginWindow.baml
+F:\Stomatology\Stomatology\obj\Debug\Wind\ModerWindow.baml
+F:\Stomatology\Stomatology\obj\Debug\Wind\PersonPage.baml
+F:\Stomatology\Stomatology\obj\Debug\Wind\RegisterWindow.baml
+F:\Stomatology\Stomatology\obj\Debug\Wind\ServicePage.baml
+F:\Stomatology\Stomatology\obj\Debug\Wind\TimetablePage.baml
+F:\Stomatology\Stomatology\obj\Debug\Wind\UserWindow.baml
+F:\Stomatology\Stomatology\obj\Debug\Stomatology.g.resources
+F:\Stomatology\Stomatology\obj\Debug\Stomatology.Properties.Resources.resources
+F:\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.GenerateResource.Cache
+F:\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.CoreCompileInputs.cache
+F:\Stomatology\Stomatology\obj\Debug\Stomatology.exe
+F:\Stomatology\Stomatology\obj\Debug\Stomatology.pdb
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\MaterialDesignColors.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\AboutWindow.g.cs
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\AdminWindow.g.cs
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\HelpWindow.g.cs
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\HomePage.g.cs
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\LoginWindow.g.cs
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\ModerWindow.g.cs
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\PersonPage.g.cs
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\RegisterWindow.g.cs
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\ServicePage.g.cs
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\TimetablePage.g.cs
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\UserWindow.g.cs
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\App.g.cs
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\App.baml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\AboutWindow.baml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\AdminWindow.baml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\HelpWindow.baml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\HomePage.baml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\LoginWindow.baml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\ModerWindow.baml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\PersonPage.baml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\RegisterWindow.baml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\ServicePage.baml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\TimetablePage.baml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\UserWindow.baml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Stomatol.A389BC23.Up2Date
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\EntityFramework.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Buffers.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Memory.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\EntityFramework.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Buffers.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Memory.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\ComputerPage.g.cs
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\Wind\ComputerPage.baml
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\ComputerClub.exe.config
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\ComputerClub.exe
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\bin\Debug\ComputerClub.pdb
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\ComputerClub_MarkupCompile.cache
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\ComputerClub_MarkupCompile.lref
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\ComputerClub.g.resources
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\ComputerClub.Properties.Resources.resources
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\ComputerClub.exe
+C:\Users\Влад\Desktop\Курс\Stomatology\Stomatology\obj\Debug\ComputerClub.pdb
