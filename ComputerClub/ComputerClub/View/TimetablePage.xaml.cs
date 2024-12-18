@@ -40,7 +40,7 @@ namespace ComputerClub.Wind
         }
 
 
-        private void Bt_Click(object sender, RoutedEventArgs e) //поиск по бд есть ли у врача в этот день приемы
+        private void Bt_Click(object sender, RoutedEventArgs e) //поиск по бд есть ли  в этот день бронь
         {
             if(Date.Text != "" && Computer.Text != "")
             {
