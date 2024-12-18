@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{CAD482BB-6BF0-49E7-9845-90B16699B7FF}|ComputerClub\\ComputerClub.csproj|solutionrelative:computerclub\\view\\timetablepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD482BB-6BF0-49E7-9845-90B16699B7FF}|ComputerClub\\ComputerClub.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\\u043A\u0443\u0440\u0441\\computerclub\\computerclub\\viewmodel\\moderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CAD482BB-6BF0-49E7-9845-90B16699B7FF}|ComputerClub\\ComputerClub.csproj|C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041A\u0443\u0440\u0441\\ComputerClub\\computerclub\\viewmodel\\moderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAD482BB-6BF0-49E7-9845-90B16699B7FF}|ComputerClub\\ComputerClub.csproj|solutionrelative:computerclub\\viewmodel\\moderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -116,7 +116,7 @@
               "RelativeDocumentMoniker": "ComputerClub\\View\\TimetablePage.xaml.cs",
               "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041A\u0443\u0440\u0441\\ComputerClub\\ComputerClub\\View\\TimetablePage.xaml.cs",
               "RelativeToolTip": "ComputerClub\\View\\TimetablePage.xaml.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAAAswLIAAAApAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwLIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T20:20:23.411Z",
               "EditorCaption": ""
@@ -131,8 +131,7 @@
               "RelativeToolTip": "ComputerClub\\View\\ComputerPage.xaml.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAA0wC8AAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T09:32:21.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T09:32:21.765Z"
             },
             {
               "$type": "Document",
@@ -144,8 +143,7 @@
               "RelativeToolTip": "ComputerClub\\ViewModel\\UserViewModel.cs",
               "ViewState": "AQIAAOUBAAAAAAAAAABUwOgBAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:46:09.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:46:09.612Z"
             },
             {
               "$type": "Document",
@@ -157,8 +155,7 @@
               "RelativeToolTip": "ComputerClub\\View\\AdminWindow.xaml.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAABOwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:43:25.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:43:25.535Z"
             },
             {
               "$type": "Document",
@@ -170,8 +167,7 @@
               "RelativeToolTip": "ComputerClub\\ViewModel\\Commands\\RelayCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:41:27.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:41:27.66Z"
             },
             {
               "$type": "Document",
@@ -183,8 +179,7 @@
               "RelativeToolTip": "ComputerClub\\ViewModel\\ModerViewModel.cs",
               "ViewState": "AQIAAI8AAAAAAAAAAAAwwLUAAACpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:17:21.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T23:17:21.989Z"
             },
             {
               "$type": "Document",
@@ -196,8 +191,7 @@
               "RelativeToolTip": "ComputerClub\\View\\ServicePage.xaml.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAcwB4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T09:34:26.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T09:34:26.736Z"
             },
             {
               "$type": "Document",
@@ -208,8 +202,7 @@
               "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041A\u0443\u0440\u0441\\ComputerClub\\ComputerClub\\View\\AdminWindow.xaml",
               "RelativeToolTip": "ComputerClub\\View\\AdminWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-17T08:37:17.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:37:17.46Z"
             },
             {
               "$type": "Document",
@@ -220,8 +213,7 @@
               "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041A\u0443\u0440\u0441\\ComputerClub\\ComputerClub\\View\\TimetablePage.xaml",
               "RelativeToolTip": "ComputerClub\\View\\TimetablePage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-17T08:37:09.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:37:09.681Z"
             },
             {
               "$type": "Document",
@@ -232,8 +224,7 @@
               "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041A\u0443\u0440\u0441\\ComputerClub\\ComputerClub\\View\\LoginWindow.xaml",
               "RelativeToolTip": "ComputerClub\\View\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-17T08:36:06.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:36:06.586Z"
             },
             {
               "$type": "Document",
@@ -244,8 +235,7 @@
               "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041A\u0443\u0440\u0441\\ComputerClub\\ComputerClub\\View\\PersonPage.xaml",
               "RelativeToolTip": "ComputerClub\\View\\PersonPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-17T08:34:58.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:34:58.858Z"
             },
             {
               "$type": "Document",
@@ -257,8 +247,7 @@
               "RelativeToolTip": "ComputerClub\\View\\UserWindow.xaml.cs",
               "ViewState": "AQIAANgAAAAAAAAAAABUwNsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:46:35.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:46:35.667Z"
             },
             {
               "$type": "Document",
@@ -269,8 +258,7 @@
               "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041A\u0443\u0440\u0441\\ComputerClub\\ComputerClub\\View\\ServicePage.xaml",
               "RelativeToolTip": "ComputerClub\\View\\ServicePage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-17T08:34:02.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:34:02.283Z"
             },
             {
               "$type": "Document",
@@ -282,8 +270,7 @@
               "RelativeToolTip": "ComputerClub\\ViewModel\\RegisterViewModel.cs",
               "ViewState": "AQIAAHMAAAAAAAAAAAAiwIQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T09:26:06.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T09:26:06.761Z"
             },
             {
               "$type": "Document",
@@ -294,8 +281,7 @@
               "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041A\u0443\u0440\u0441\\ComputerClub\\ComputerClub\\View\\ComputerPage.xaml",
               "RelativeToolTip": "ComputerClub\\View\\ComputerPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-17T08:34:32.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:34:32.447Z"
             },
             {
               "$type": "Document",
@@ -307,8 +293,7 @@
               "RelativeToolTip": "ComputerClub\\ViewModel\\AdminViewModel.cs",
               "ViewState": "AQIAAJgBAAAAAAAAAABUwJsBAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:27:02.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:27:02.511Z"
             },
             {
               "$type": "Document",
@@ -319,8 +304,7 @@
               "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041A\u0443\u0440\u0441\\ComputerClub\\ComputerClub\\View\\ModerWindow.xaml",
               "RelativeToolTip": "ComputerClub\\View\\ModerWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-17T08:35:21.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:35:21.908Z"
             },
             {
               "$type": "Document",
@@ -331,8 +315,7 @@
               "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041A\u0443\u0440\u0441\\ComputerClub\\ComputerClub\\View\\RegisterWindow.xaml",
               "RelativeToolTip": "ComputerClub\\View\\RegisterWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-17T08:31:34.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:31:34.438Z"
             },
             {
               "$type": "Document",
@@ -344,8 +327,7 @@
               "RelativeToolTip": "ComputerClub\\ViewModel\\ComputerViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:17:22.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T23:17:22.7Z"
             },
             {
               "$type": "Document",
@@ -356,8 +338,7 @@
               "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041A\u0443\u0440\u0441\\ComputerClub\\ComputerClub\\View\\UserWindow.xaml",
               "RelativeToolTip": "ComputerClub\\View\\UserWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-16T23:16:52.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T23:16:52.798Z"
             }
           ]
         }
